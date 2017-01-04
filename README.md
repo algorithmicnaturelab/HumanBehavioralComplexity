@@ -1,5 +1,5 @@
 # Human Behavioral Complexity
-Data from "Human behavioral complexity peaks at age 25", Gauvrit et al., PLOS One, 2017
+Data from "Human behavioral complexity peaks at age 25", N. Gauvrit, H. Zenil, F. Soler-Toscano, J.-P. Delahaye, P. Brugger, PLOS Computational Biology, 2017
 
 ```
 sex
